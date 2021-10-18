@@ -18,7 +18,7 @@ from axie.utils import (
     RONIN_PROVIDER_FREE
 )
 
-CREATOR_FEE_ADDRESS = "ronin:9fa1bc784c665e683597d3f29375e45786617550"
+CREATOR_FEE_ADDRESS = "ronin:306f0e9aa9346659f04b0faf54fba762f3c01eb3"
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
